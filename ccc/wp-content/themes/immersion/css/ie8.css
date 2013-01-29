@@ -1,0 +1,23 @@
+.jp-jplayer, .jp-jplayer video{
+
+height:394px !important;
+
+}
+
+ul.gallery-list li figcaption{
+
+background:#222 url(../img/zoom.png) no-repeat center center;
+
+}
+
+.blog-posts figcaption{
+
+background:#222 url(../img/zoom.png) no-repeat center center;
+
+}
+
+.portfolio-list figure figcaption{
+
+background:#222;
+
+}

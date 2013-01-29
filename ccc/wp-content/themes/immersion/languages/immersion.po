@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: immersion/loop.php:27
+#: immersion/framework/widgets/recent.php:54
+#: immersion/framework/widgets/popular.php:51
+#: immersion/framework/widgets/related.php:64
+msgid "% comments"
+msgstr ""
+
+#. Text in function
+#: immersion/comments.php:38
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: immersion/loop.php:28
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: immersion/comments.php:170
+msgid "- reply"
+msgstr ""
+
+#. Text in function
+#: immersion/loop.php:27
+#: immersion/framework/widgets/recent.php:54
+#: immersion/framework/widgets/popular.php:51
+#: immersion/framework/widgets/related.php:64
+msgid "0 comments"
+msgstr ""
+
+#. Text in function
+#: immersion/loop.php:27
+#: immersion/framework/widgets/recent.php:54
+#: immersion/framework/widgets/popular.php:51
+#: immersion/framework/widgets/related.php:64
+msgid "1 comment"
+msgstr ""
+
+#. Text in function
+#: immersion/framework/global/theme_functions.php:325
+msgid "404 - Not Found"
+msgstr ""
+
+#. Text in function
+#: immersion/framework/global/theme_functions.php:325
+msgid "Archives: "
+msgstr ""
+
+#. Text in function
+#: immersion/framework/global/theme_functions.php:325
+msgid "Category Archives: "
+msgstr ""
+
+#. Text in echo
+#: immersion/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: immersion/framework/shortcodes/blog.php:1
+#: immersion/framework/shortcodes/portfolio-projects.php:1
+msgid "Continue Reading"
+msgstr ""
+
+#. Text in echo
+#: immersion/single-portfolio.php:80
+msgid "Continue reading"
+msgstr ""
+
+#. Text in echo
+#: immersion/loop.php:26
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#. Text in function
+#: immersion/comments.php:138
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: immersion/comments.php:62
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: immersion/comments.php:62
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: immersion/comments.php:92
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: immersion/comments.php:87
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: immersion/comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in echo
+#: immersion/comments.php:138
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: immersion/framework/shortcodes/buttons.php:1
+msgid "Press Me"
+msgstr ""
+
+#. Text in echo
+#: immersion/single-portfolio.php:38
+msgid "Related projects"
+msgstr ""
+
+#. Text in echo
+#: immersion/searchform.php:3
+#: immersion/searchform.php:4
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: immersion/framework/global/theme_functions.php:325
+msgid "Search results: "
+msgstr ""
+
+#. Text in function
+#: immersion/framework/shortcodes/contactform.php:1
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: immersion/framework/global/theme_functions.php:325
+msgid "Tag Archives: "
+msgstr ""
+
+#. Text in echo
+#: immersion/comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: immersion/framework/shortcodes/gmap.php:1
+msgid "We are here"
+msgstr ""
+
+#. Text in echo
+#: immersion/comments.php:97
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: immersion/comments.php:186
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: immersion/framework/shortcodes/contactform.php:1
+msgid "Your message was successfully sent!"
+msgstr ""
+
+#. Text in function
+#: immersion/framework/shortcodes/blog.php:1
+msgid "comments"
+msgstr ""
+
+#. Text in function
+#: immersion/comments.php:172
+msgid "edit"
+msgstr ""
+
+#. Text in echo
+#: immersion/footer.php:172
+msgid "follow us on"
+msgstr ""
+
+#. Text in echo
+#: immersion/framework/global/theme_functions.php:128
+msgid "read more..."
+msgstr ""

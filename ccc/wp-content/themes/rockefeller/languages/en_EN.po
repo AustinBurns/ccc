@@ -1,0 +1,865 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rockefeller\n"
+"POT-Creation-Date: 2012-12-06 21:09+0700\n"
+"PO-Revision-Date: 2012-12-06 21:12+0700\n"
+"Last-Translator: \n"
+"Language-Team: Interfeis\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: 404.php:17
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: archive-portofolio.php:223 loop.php:93 page-portfolio-filter.php:255
+#: page-portfolio.php:229 framework/shortcodes/portfolio.php:67
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: archive-portofolio.php:224 loop.php:94 page-portfolio-filter.php:256
+#: page-portfolio.php:230 framework/shortcodes/portfolio.php:68
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: attachment.php:25
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr ""
+
+#: attachment.php:36
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr ""
+
+#: attachment.php:46
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:49
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:98 loop.php:69 page-nosidebar.php:29 page.php:37
+msgid "Read More"
+msgstr ""
+
+#: attachment.php:99 page-nosidebar.php:30 page.php:38
+#: single-portofolio.php:31
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:100 page-nosidebar.php:31 page.php:39
+#: single-portofolio.php:32
+msgid "Edit"
+msgstr ""
+
+#: author.php:44 single.php:76
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:41 comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:80
+msgid "Name"
+msgstr ""
+
+#: comments.php:82
+msgid "Email"
+msgstr ""
+
+#: comments.php:84
+msgid "Website"
+msgstr ""
+
+#: comments.php:87
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:88
+msgid "Submit"
+msgstr ""
+
+#: header.php:72 searchform.php:12
+msgid "Enter the keyword..."
+msgstr ""
+
+#: loop.php:25
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:27
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: loop.php:65 single.php:54
+msgid "By :"
+msgstr ""
+
+#: loop.php:68 single.php:57
+msgid "0 Comment"
+msgstr ""
+
+#: loop.php:68 single.php:57
+msgid "1 Comment"
+msgstr ""
+
+#: loop.php:68 single.php:57
+msgid "% Comments"
+msgstr ""
+
+#: page-portfolio-filter.php:43
+msgid "All Categories"
+msgstr ""
+
+#: single.php:58
+msgid "Next"
+msgstr ""
+
+#: single.php:59
+msgid "Previous"
+msgstr ""
+
+#: slider.php:102
+msgid "For Details"
+msgstr ""
+
+#: taxonomy-portfoliocat.php:201
+msgid "&laquo; Previous"
+msgstr ""
+
+#: taxonomy-portfoliocat.php:202
+msgid "Next &raquo;"
+msgstr ""
+
+#: title.php:19
+#, php-format
+msgid "Daily Archives <span>%s</span>"
+msgstr ""
+
+#: title.php:21
+#, php-format
+msgid "Monthly Archives <span>%s</span>"
+msgstr ""
+
+#: title.php:23
+#, php-format
+msgid "Yearly Archives <span>%s</span>"
+msgstr ""
+
+#: title.php:25
+#, php-format
+msgid "Author Archives %s"
+msgstr ""
+
+#: title.php:27
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: title.php:33
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: title.php:38
+msgid "404 Page"
+msgstr ""
+
+#: title.php:46
+msgid "Blog"
+msgstr ""
+
+#: engine/footer-functions.php:74
+msgid "Copyright"
+msgstr ""
+
+#: engine/footer-functions.php:91
+msgid "Designed by"
+msgstr ""
+
+#: engine/footer-functions.php:92
+msgid "http://www.interfeis.com"
+msgstr ""
+
+#: engine/footer-functions.php:92
+msgid "Interfeis - It's Beautiful"
+msgstr ""
+
+#: engine/footer-functions.php:92
+msgid "Interfeis"
+msgstr ""
+
+#: engine/header-functions.php:22
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: engine/metabox-settings.php:21 engine/metabox-settings.php:40
+msgid "Sidebar Option"
+msgstr ""
+
+#: engine/metabox-settings.php:28 engine/metabox-settings.php:47
+#: engine/metabox-settings.php:103
+msgid "Registered Sidebar"
+msgstr ""
+
+#: engine/metabox-settings.php:29
+msgid "Please choose the sidebar for this page"
+msgstr ""
+
+#: engine/metabox-settings.php:48 engine/metabox-settings.php:116
+msgid "Please choose the sidebar for this post"
+msgstr ""
+
+#: engine/portfolio-init.php:5
+msgid "Portfolio"
+msgstr ""
+
+#: engine/portfolio-init.php:29
+msgid "Portfolio Categories"
+msgstr ""
+
+#: engine/portfolio-init.php:30 engine/testimonial-init.php:22
+#: engine/theme-init.php:61
+msgid "Category"
+msgstr ""
+
+#: engine/sidebar-init.php:4 framework/sidebargenerator/if-form.php:219
+#: framework/sidebargenerator/if-sidebar.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: engine/sidebar-init.php:6
+msgid "Located at the left/right side of all pages and post."
+msgstr ""
+
+#: engine/sidebar-init.php:14
+msgid "Footer1 Sidebar"
+msgstr ""
+
+#: engine/sidebar-init.php:16
+msgid "Located at the footer column 1."
+msgstr ""
+
+#: engine/sidebar-init.php:24
+msgid "Footer2 Sidebar"
+msgstr ""
+
+#: engine/sidebar-init.php:26
+msgid "Located at the footer column 2."
+msgstr ""
+
+#: engine/sidebar-init.php:34
+msgid "Footer3 Sidebar"
+msgstr ""
+
+#: engine/sidebar-init.php:36
+msgid "Located at the footer column 3."
+msgstr ""
+
+#: engine/sidebar-init.php:44
+msgid "Footer4 Sidebar"
+msgstr ""
+
+#: engine/sidebar-init.php:46
+msgid "Located at the footer column 4."
+msgstr ""
+
+#: engine/sidebar-init.php:62
+msgid "A Custom sidebar created from Sidebar Manager. It's called"
+msgstr ""
+
+#: engine/testimonial-init.php:5
+msgid "Testimonials"
+msgstr ""
+
+#: engine/testimonial-init.php:22
+msgid "testimonialpost"
+msgstr ""
+
+#: engine/testimonial-init.php:22
+msgid "Testimonial Categories"
+msgstr ""
+
+#: engine/theme-init.php:28
+msgid "Main Menu"
+msgstr ""
+
+#: engine/theme-init.php:31
+msgid "Footer Menu"
+msgstr ""
+
+#: engine/theme-init.php:45
+msgid "Slider"
+msgstr ""
+
+#: engine/theme-init.php:61
+msgid "slider-view"
+msgstr ""
+
+#: engine/theme-init.php:61
+msgid "Slider Categories"
+msgstr ""
+
+#: engine/theme-options.php:33
+msgid "Image logo"
+msgstr ""
+
+#: engine/theme-options.php:34
+msgid "Text-based logo"
+msgstr ""
+
+#: engine/theme-options.php:38
+msgid "Fixed"
+msgstr ""
+
+#: engine/theme-options.php:39
+msgid "Absolute"
+msgstr ""
+
+#: engine/theme-options.php:136
+msgid "General Settings"
+msgstr ""
+
+#: engine/theme-options.php:139
+msgid "Layout Settings"
+msgstr ""
+
+#: engine/theme-options.php:142
+msgid "Sidebar Position"
+msgstr ""
+
+#: engine/theme-options.php:143
+msgid "Select sidebar position. Default sidebar is right."
+msgstr ""
+
+#: engine/theme-options.php:152
+msgid "Footer Sidebar Layout"
+msgstr ""
+
+#: engine/theme-options.php:153
+msgid "Select footer sidebar layout. Default sidebar is four column."
+msgstr ""
+
+#: engine/theme-options.php:170
+msgid " "
+msgstr ""
+
+#: engine/theme-options.php:173
+msgid "Header Settings"
+msgstr ""
+
+#: engine/theme-options.php:176
+msgid "Disable Responsive Feature?"
+msgstr ""
+
+#: engine/theme-options.php:177
+msgid "Select this checkbox to disable the responsive website feature."
+msgstr ""
+
+#: engine/theme-options.php:182
+msgid "Disable Top Search Form Feature?"
+msgstr ""
+
+#: engine/theme-options.php:183
+msgid "Select this checkbox to disable the top search form feature."
+msgstr ""
+
+#: engine/theme-options.php:188
+msgid "Logo Type"
+msgstr ""
+
+#: engine/theme-options.php:189
+msgid ""
+"If text-based logo is activated, enter the logo name and logo tagline in the "
+"fields below."
+msgstr ""
+
+#: engine/theme-options.php:196
+msgid "Logo Name"
+msgstr ""
+
+#: engine/theme-options.php:197
+msgid "Put your logo name in here."
+msgstr ""
+
+#: engine/theme-options.php:202
+msgid "Logo Tagline"
+msgstr ""
+
+#: engine/theme-options.php:203
+msgid "Put your tagline in here."
+msgstr ""
+
+#: engine/theme-options.php:208
+msgid "Logo Image"
+msgstr ""
+
+#: engine/theme-options.php:209
+msgid "If image logo is activated, upload the logo image."
+msgstr ""
+
+#: engine/theme-options.php:213
+msgid "Favicon"
+msgstr ""
+
+#: engine/theme-options.php:214
+msgid "Upload the favicon image."
+msgstr ""
+
+#: engine/theme-options.php:218
+msgid "Footer Settings"
+msgstr ""
+
+#: engine/theme-options.php:221
+msgid "Disable Footer Sidebar?"
+msgstr ""
+
+#: engine/theme-options.php:222
+msgid "Select this checkbox to disable footer sidebar feature."
+msgstr ""
+
+#: engine/theme-options.php:227
+msgid "Footer Text"
+msgstr ""
+
+#: engine/theme-options.php:228
+msgid "You can use html tag in here."
+msgstr ""
+
+#: engine/theme-options.php:233
+msgid "Tracking Code"
+msgstr ""
+
+#: engine/theme-options.php:234
+msgid "Enter your tracking code here."
+msgstr ""
+
+#: engine/theme-options.php:239
+msgid "Style Settings"
+msgstr ""
+
+#: engine/theme-options.php:242
+msgid "Container's Width"
+msgstr ""
+
+#: engine/theme-options.php:243
+msgid "Set the length of your container's width between 940px - 1140px"
+msgstr ""
+
+#: engine/theme-options.php:249
+msgid "Header's Position"
+msgstr ""
+
+#: engine/theme-options.php:250
+msgid "Set the position of your header"
+msgstr ""
+
+#: engine/theme-options.php:257
+msgid "General Fonts"
+msgstr ""
+
+#: engine/theme-options.php:258
+msgid "Choose the font for general purpose."
+msgstr ""
+
+#: engine/theme-options.php:264
+msgid "Bigtext Shortcode Fonts"
+msgstr ""
+
+#: engine/theme-options.php:265
+msgid "Choose the font for [bigtext] shortcode."
+msgstr ""
+
+#: engine/theme-options.php:271
+msgid "Heading Fonts"
+msgstr ""
+
+#: engine/theme-options.php:272
+msgid "Choose the font for h1, h2, h3, h4, h5, h6."
+msgstr ""
+
+#: engine/theme-options.php:278
+msgid "Menu Navigation Fonts"
+msgstr ""
+
+#: engine/theme-options.php:279
+msgid "Choose the font for main menu."
+msgstr ""
+
+#: engine/theme-options.php:285
+msgid "Background Settings"
+msgstr ""
+
+#: engine/theme-options.php:286
+msgid "Change the background CSS."
+msgstr ""
+
+#: engine/theme-options.php:291
+msgid "Background Header"
+msgstr ""
+
+#: engine/theme-options.php:292
+msgid "Change the background on header."
+msgstr ""
+
+#: engine/theme-options.php:297
+msgid "Background Footer"
+msgstr ""
+
+#: engine/theme-options.php:298
+msgid "Change the background on footer."
+msgstr ""
+
+#: engine/theme-options.php:303
+msgid "Social Network"
+msgstr ""
+
+#: engine/theme-options.php:307 engine/theme-options.php:311
+msgid "Social Icon"
+msgstr ""
+
+#: engine/theme-options.php:312
+msgid "Please choose your social icon and input the URL in textbox."
+msgstr ""
+
+#: engine/theme-options.php:321
+msgid "Slider Settings"
+msgstr ""
+
+#: engine/theme-options.php:324
+msgid "Arrange Slider Post"
+msgstr ""
+
+#: engine/theme-options.php:325
+msgid "Select the order for your slider. the default is Ascending"
+msgstr ""
+
+#: engine/theme-options.php:332
+msgid "Slider Effect"
+msgstr ""
+
+#: engine/theme-options.php:333
+msgid "Please select transition effect. The default is fade"
+msgstr ""
+
+#: engine/theme-options.php:340
+msgid "Slider Interval"
+msgstr ""
+
+#: engine/theme-options.php:341
+msgid "Please enter number for slider interval. Default is 600"
+msgstr ""
+
+#: engine/theme-options.php:347
+msgid "Disable Slider Text"
+msgstr ""
+
+#: engine/theme-options.php:348
+msgid "Select this checkbox to disable the slider text."
+msgstr ""
+
+#: engine/theme-options.php:353
+msgid "Disable Slider Navigation"
+msgstr ""
+
+#: engine/theme-options.php:354
+msgid "Select this checkbox to disable navigation."
+msgstr ""
+
+#: engine/theme-options.php:359
+msgid "Disable Slider Previous/Next Navigation"
+msgstr ""
+
+#: engine/theme-options.php:360
+msgid "Select this checkbox to disable previous/next navigation."
+msgstr ""
+
+#: engine/theme-options.php:365
+msgid "Miscellaneous"
+msgstr ""
+
+#: engine/theme-options.php:368
+msgid "Header text"
+msgstr ""
+
+#: engine/theme-options.php:369
+msgid "Put your text for header text."
+msgstr ""
+
+#: engine/theme-options.php:374
+msgid "Demo Switcher"
+msgstr ""
+
+#: engine/theme-options.php:375
+msgid "Select this checkbox to enable the switcher feature."
+msgstr ""
+
+#: framework/if-general-functions.php:87 widgets/if-recent-comment.php:38
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: framework/if-general-functions.php:92
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: framework/if-general-functions.php:93
+#: framework/if-general-functions.php:116
+msgid "(Edit)"
+msgstr ""
+
+#: framework/if-general-functions.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/if-general-functions.php:114
+msgid "Pingback:"
+msgstr ""
+
+#: framework/if-general-functions.php:177
+#, php-format
+msgid "Categories: %1$s <br/> Tags: %2$s"
+msgstr ""
+
+#: framework/if-general-functions.php:179
+#, php-format
+msgid "Categories: %1$s"
+msgstr ""
+
+#: framework/if-general-functions.php:206
+msgid "Click for Home"
+msgstr ""
+
+#: framework/if-general-functions.php:206
+msgid "Home"
+msgstr ""
+
+#: framework/if-general-functions.php:234
+msgid "Show All Categories"
+msgstr ""
+
+#: framework/admin/options-framework.php:168
+#: framework/admin/options-framework.php:169
+#: framework/admin/options-framework.php:370
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/options-framework.php:242
+#: framework/sidebargenerator/if-form.php:253
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: framework/admin/options-framework.php:273
+msgid "Default options restored."
+msgstr ""
+
+#: framework/admin/options-framework.php:314
+msgid "Options saved."
+msgstr ""
+
+#: framework/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: framework/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: framework/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: framework/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: framework/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:218
+msgid "No Repeat"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:219
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:220
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:221
+msgid "Repeat All"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:234
+msgid "Top Left"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:235
+msgid "Top Center"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:236
+msgid "Top Right"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:237
+msgid "Middle Left"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:238
+msgid "Middle Center"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:239
+msgid "Middle Right"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:240
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:241
+msgid "Bottom Center"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:242
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:255
+msgid "Scroll Normally"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:256
+msgid "Fixed in Place"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:330
+msgid "Normal"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:331
+msgid "Italic"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:332
+msgid "Bold"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:333
+msgid "Bold Italic"
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:8
+msgid "settings saved."
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:146
+msgid "Please input the textbox first!"
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:161
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:227
+#: framework/sidebargenerator/if-sidebar.php:18
+msgid "Sidebar Generator"
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:230
+msgid "Add"
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:231
+#: framework/sidebargenerator/if-sidebar.php:19
+msgid "Please enter name of new sidebar"
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:253
+msgid "Restore Defaults"
+msgstr ""
+
+#: framework/sidebargenerator/if-form.php:254
+msgid "Save Changes"
+msgstr ""
+
+#: framework/sidebargenerator/if-sidebar.php:11
+#: framework/sidebargenerator/if-sidebar.php:36
+msgid "Sidebar Manager"
+msgstr ""
+
+#: widgets/if-post-rotator.php:6 widgets/if-post-rotator.php:7
+msgid "IF - Post Rotator"
+msgstr ""
+
+#: widgets/if-post-rotator.php:116 widgets/if-recent-posts.php:92
+msgid "Title:"
+msgstr ""
+
+#: widgets/if-post-rotator.php:119
+msgid "Limit Text:"
+msgstr ""
+
+#: widgets/if-post-rotator.php:122
+msgid "Post Type:"
+msgstr ""
+
+#: widgets/if-post-rotator.php:131 widgets/if-recent-posts.php:94
+msgid "Category:"
+msgstr ""
+
+#: widgets/if-recent-comment.php:6 widgets/if-recent-comment.php:7
+msgid "IF - Recent Comments"
+msgstr ""
+
+#: widgets/if-recent-comment.php:14
+msgid "IF Recent Comments"
+msgstr ""
+
+#: widgets/if-recent-posts.php:7 widgets/if-recent-posts.php:8
+#: widgets/if-recent-posts.php:15
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/if-recent-posts.php:54
+msgid "Permanent Link to"
+msgstr ""
+
+#: widgets/if-recent-posts.php:105
+msgid "Number of Post:"
+msgstr ""
+
+#: widgets/if-recent-posts.php:108
+msgid "Disable Thumb:"
+msgstr ""
